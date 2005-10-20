@@ -1,12 +1,12 @@
 Summary:	XF86Misc protocol and ancillary headers
 Summary(pl):	Nag³ówki protoko³u XF86Misc i pomocnicze
 Name:		xorg-proto-xf86miscproto
-Version:	0.9
-Release:	0.02
+Version:	0.9.1
+Release:	0.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/X11R7.0-RC0/proto/xf86miscproto-%{version}.tar.bz2
-# Source0-md5:	3ea64e4a9a04881fff49152726be98da
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC1/proto/xf86miscproto-%{version}.tar.bz2
+# Source0-md5:	4abf4c8338ae6319c14fb6661c4f35f0
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
