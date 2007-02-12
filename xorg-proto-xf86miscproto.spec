@@ -1,5 +1,5 @@
 Summary:	XF86Misc protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu XF86Misc i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu XF86Misc i pomocnicze
 Name:		xorg-proto-xf86miscproto
 Version:	0.9.2
 Release:	1
@@ -21,7 +21,7 @@ Nagłówki protokołu XF86Misc i pomocnicze.
 
 %package devel
 Summary:	XF86Misc protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu XF86Misc i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu XF86Misc i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-xproto-devel
 
