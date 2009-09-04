@@ -5,7 +5,7 @@ Version:	0.9.2
 Release:	2
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/xf86miscproto-%{version}.tar.bz2
+Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86miscproto-%{version}.tar.bz2
 # Source0-md5:	acae8edeb05a406f7f60bcbb218a8f1d
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
