@@ -1,13 +1,14 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	XFree86-Misc extension headers
 Summary(pl.UTF-8):	Pliki nagłówkowe rozszerzenia XFree86-Misc
 Name:		xorg-proto-xf86miscproto
 Version:	0.9.3
-Release:	2
+Release:	2.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86miscproto-%{version}.tar.bz2
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/xf86miscproto-%{version}.tar.bz2
 # Source0-md5:	ca63bbb31cf5b7f37b2237e923ff257a
-URL:		http://xorg.freedesktop.org/
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
 BuildRequires:	xorg-util-util-macros >= 1.3
